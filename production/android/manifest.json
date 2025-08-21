@@ -1,0 +1,12 @@
+{
+  "js": {
+    "version": "0.0.0-initial",
+    "bundleUrl": "https://krimxpotato.github.io/routine_app_ota/production/android/index.android.bundle",
+    "minNativeVersion": "0.0.0",
+    "force": false,
+    "notes": "Initial manifest for android - production environment",
+    "timestamp": "2025-08-21T11:41:26.213Z",
+    "sourceRepo": "Krimxpotato/routine_app",
+    "bundleRepo": "Krimxpotato/routine_app_ota"
+  }
+}
