@@ -1,13 +1,13 @@
 {
   "js": {
-    "version": "0.2.0-1755780846136",
+    "version": "0.2.0-1755780957531",
     "bundleUrl": "https://Krimxpotato.github.io/routine_app_ota/production/android/bundle.zip",
-    "sha256": "d1b88071c125894c138b8c69f6cbae41fd69cf270cefa5c9c17f14256af77b42",
-    "size": 960369,
+    "sha256": "cc3185d322269fed032a5c40f7433d074dbf802abe96eb1b44d9fd3ebec42870",
+    "size": 960366,
     "minNativeVersion": "0.2.0",
     "force": false,
     "notes": "OTA update for android - production environment",
-    "timestamp": "2025-08-21T12:54:06.136Z",
+    "timestamp": "2025-08-21T12:55:57.531Z",
     "commit": "7ba2aea5b186ce572e43db28fb0163994084249a",
     "branch": "main",
     "sourceRepo": "Krimxpotato/routine_app",
