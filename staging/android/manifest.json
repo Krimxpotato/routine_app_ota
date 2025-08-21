@@ -1,11 +1,13 @@
 {
   "js": {
-    "version": "0.2.0-1755777127651",
-    "bundleUrl": "https://krimxpotato.github.io/routine_app_ota/staging/android/index.android.bundle",
+    "version": "0.2.0-1755778753512",
+    "bundleUrl": "https://krimxpotato.github.io/routine_app_ota/staging/android/bundle.zip",
+    "sha256": "abc81113c4d3b3e89341d8d97e866c4ede57fc018ce450669ddce351781a3659",
+    "size": 959865,
     "minNativeVersion": "0.2.0",
     "force": false,
     "notes": "OTA update for android - staging environment",
-    "timestamp": "2025-08-21T11:52:07.651Z",
+    "timestamp": "2025-08-21T12:19:13.512Z",
     "commit": "7ba2aea5b186ce572e43db28fb0163994084249a",
     "branch": "main",
     "sourceRepo": "Krimxpotato/routine_app",
